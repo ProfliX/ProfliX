@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **imrancehajic.official@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 
